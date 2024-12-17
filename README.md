@@ -1,0 +1,2 @@
+
+The "GenieMod" mod introduces a unique money ore that spawns near iron ore and drops 5-10 coins when mined. These coins can be crafted into a "Pile of Coins". By combining 9 coins and 2 iron ingots, you can craft a "Genie Table". When you throw a "Pile of Coins" on the table, it randomly drops items such as ingots, tools, and stacks of snow, stone, and wood. After 5 uses, the Genie Table breaks. This mod adds random rewards through interaction with the Genie Table.
